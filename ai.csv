@@ -1,5 +1,5 @@
 Name,Category,Description,URL
-OpenAI,Generative AI,Leading AI research lab,https://www.openai.com
+OpenAI,Generative AI,Leading AI research lab,<a href="https://www.openai.com">openai.com</a>
 DeepMind,Research,AI for advanced problem solving,https://www.deepmind.com
 IBM Watson,AI Tools,AI for business solutions,https://www.ibm.com/watson
 Hugging Face,Generative AI,AI models and datasets,https://www.huggingface.co
